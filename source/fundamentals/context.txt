@@ -71,7 +71,7 @@ out a connection, the function returns a timeout error.
 Connection Establishment
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-The driver might block an function call if it needs to create a new
+The driver might block a function call if it needs to create a new
 connection.
 
 When the driver needs to create a new connection to execute an
